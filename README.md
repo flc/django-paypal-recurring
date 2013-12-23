@@ -18,3 +18,17 @@ Usage
     PAYPAL_SANDBOX_MODE = True
     
     SITE_CURRENCY = 'EUR'
+
+Authors and Contributors
+========================
+bespider (@bespider) for EggForSale (@eggforsale) created Django PayPal Recurring.
+
+Licence
+=======
+Django PayPal Recurring is licensed under Creative Commons Attribution-NonCommercial 3.0 license.
+
+Licence and pricing: http://www.eggforsale.com
+
+Support or Contact
+==================
+Having trouble with Django PayPal Recurring? Check out the detail page at http://www.eggforsale.com or contact support@eggforsale.com and we’ll help you sort it out.

@@ -19,6 +19,13 @@ Usage
     
     SITE_CURRENCY = 'EUR'
 
+3.  in urls.py:
+    urlpatterns = patterns('',
+    ...
+        url(r'^subscription/', include('subscription.urls', namespace='subscription')),
+    ...
+    )
+
 Authors and Contributors
 ========================
 bespider (@bespider) for EggForSale (@eggforsale) created Django PayPal Recurring.

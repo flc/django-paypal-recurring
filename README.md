@@ -20,10 +20,13 @@ Usage
     SITE_CURRENCY = 'EUR'
 
 3.  in urls.py:
+    
     urlpatterns = patterns('',
-    ...
+
+        ...
         url(r'^subscription/', include('subscription.urls', namespace='subscription')),
-    ...
+        ...
+    
     )
 
 Authors and Contributors

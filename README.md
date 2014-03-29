@@ -28,6 +28,8 @@ Usage
         ...
     
     )
+4.  run python manage.py syncdb
+
 
 Authors and Contributors
 ========================
